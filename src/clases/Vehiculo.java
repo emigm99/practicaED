@@ -1,12 +1,9 @@
 package clases;
 
 public class Vehiculo {
-	public Vehiculo(int numPuertas, int numRuedas) {
-		this.numPuertas = numPuertas;
-		this.numRuedas = numRuedas;
-	}
-	public void showinfo()
-	{
-	System. out.println( "Soy un vehiculo”);
+		int numRuedas = 4;
+		int numPuertas = 4;
+		boolean llevoRadio = true;
+		public  Vehiculo();
 	}
 }
